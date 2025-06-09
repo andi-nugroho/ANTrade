@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjU0NDgsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg2MWQwMEFENzYwNjhGOEQ0NzQwYzM1OEM4QzAzYUFFYjUxMGI1OTBEIn0",
+    "payload": "eyJkb21haW4iOiJmYXJtaW50LmFwcCJ9",
+    "signature": "MHg3NmRkOWVlMjE4OGEyMjliNzExZjUzOTkxYTc1NmEzMGZjNTA3NmE5OTU5OWJmOWFmYjYyMzAyZWQxMWQ2MWFmNTExYzlhYWVjNjQ3OWMzODcyMTI5MzA2YmJhYjdhMTE0MmRhMjA4MmNjNTM5MTJiY2MyMDRhMWFjZTY2NjE5OTFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "FarTrade NFT Marketplace",
+    "iconUrl": "https://far-trade.vercel.app/fartrade-icon.png",
+    "homeUrl": "https://far-trade.vercel.app",
+    "imageUrl": "https://far-trade.vercel.app/fartrade-icon.png",
+    "buttonTitle": "🎨 Launch FarTrade",
+    "splashImageUrl": "https://far-trade.vercel.app/fartrade-icon.png",
+    "splashBackgroundColor": "#1a1a1a",
+    "webhookUrl": "https://far-trade.vercel.app/api/webhook"
+  }
+}
